@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="word">Введите символы для обработки:</string>
+    <string name="createAnagram">Создать Анаграмму</string>
+    <string name="typed_text">Введенные Вами символы:</string>
+    <string name="processing_result">Результат обработки:</string>
+    <string name="enter">Любые буквы и символы...</string>
+</resources>
